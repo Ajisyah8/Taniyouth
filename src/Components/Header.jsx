@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <header className="bg-white text-green-900 p-4 pb-10 flex justify-between items-center text-2xl ">
             <div className="flex items-center">
-                <img src="https://placehold.co/50x50" alt="Petani GO logo" className="h-10 mr-3" />
+                <img src="./public/50x50.png" alt="Petani GO logo" className="h-10 mr-3" />
                 <span className="font-bold text-2xl ml-20">Petani GO</span>
             </div>
             <nav className="flex items-center space-x-20 p=20">
