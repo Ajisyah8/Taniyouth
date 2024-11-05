@@ -15,7 +15,7 @@ const Home = () => {
                         <img src="https://placehold.co/400x400" alt="Farmer in a field" className="rounded-full w-full" />
                     </div>
                     <div className="w-1/2">
-                        <h2 className="text-2xl font-bold mb-4">Tentang Kami</h2>
+                        <h2 className="text-2xl font-bold mb-4">About Us</h2>
                         <p className="mb-4">Petani GO adalah platform yang menyediakan informasi dan solusi untuk para petani. Kami berkomitmen untuk membantu petani meningkatkan hasil panen dan kesejahteraan mereka.</p>
                         <h2 className="text-2xl font-bold mb-4">Fokus Kami</h2>
                         <p>Kami fokus pada penyediaan informasi yang akurat dan solusi praktis untuk masalah pertanian. Kami juga menyediakan forum online untuk diskusi dan berbagi pengalaman antar petani.</p>
